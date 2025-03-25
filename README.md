@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving)
 
 <!--
 **kyuchan-2/kyuchan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
